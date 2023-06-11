@@ -1,0 +1,100 @@
+1 | Centenario         | Montevideo     |90000     |Uruguay 1930
+2 | Gran Parque Central| Montevideo     |20000     |Uruguay 1930
+3 | Pocitos            | Montevideo     |1000      |Uruguay 1930
+4 | Littoriale         | Bologna        |38000     |Italia 1934
+5 | Giovanni Berta     | Florencia      |40000     |Italia 1934
+6 | Luigi Ferraris     | Genova         |35000     |Italia 1934
+7 | San Siro           | Milan          |35000     |Italia 1934
+8 | Giorgio Ascarelli  | Napoles        |40000     |Italia 1934
+9 | Littorio	       | Trieste        |52000     |Italia 1934
+10| Benito Mussolini   | Turin 	        |40000     |Italia 1934
+11| Fort Carre         | Antibes        |7000      |Francia 1938
+12| Parc Lescure       | Burdeos        |35000     |Francia 1938
+13| Henri Jooris       | Lille          |15000     |Francia 1938
+14| Velodrome          | Marsella       |60000     |Francia 1938
+15| Velodrome Municipal| Reims          |9000      |Francia 1938
+16| Chapou             | Toulouse       |22000     |Francia 1938
+17| Independencia      | Belo Horizonte |25000	   |Brasil 1950
+18| Ilha do Retiro     | Recife	        |60000     |Brasil 1950
+19| Maracana           | Rio de Janeiro |180000    |Brasil 1950
+20| Pacaembu 	       | Sao Paulo      |45000     |Brasil 1950
+21| Basilea 	       | Jakob Park     |33400     |Suiza 1954
+22| Wankdorfstadion    | Berna          |64000     |Suiza 1954
+23| Hardturm-Stadiom   | Zurich         |27500     |Suiza 1954
+24| Ryavallen          | Boras          |19400     |Suecia 1958
+25| Tunavallen         | Eskilstuna     |13103     |Suecia 1958
+26| Ullevi             | Gotemburgo     |43200     |Suecia 1958
+27| Örjans Vall        | Halmstad       |18000     |Suecia 1958
+28| Eyravallen	       | Örebro   	|12000	   |Suecia 1958       
+29| Järvallen          | Sandviken      |21000     |Suecia 1958
+30| Rasunda            | Solna          |37000	   |Suecia 1958
+31| Rimnersvallen      | Uddevalla      |17778     |Suecia 1958
+32| Arosvallen         | Västeras       |12000     |Suecia 1958
+33| Villa Park 	       | Birmingham     |52000     |Inglaterra 1966
+34| Goodison           | Liverpool      |63000     |Inglaterra 1966
+35| Wembley	       | Londres        |100000    |Inglaterra 1966
+36| White City 	       | Londres        |50000     |Inglaterra 1966
+37| Old Trafford       | Manchester     |62000     |Inglaterra 1966
+38| Ayresome Park      | Middlesbrough  |38000     |Inglaterra 1966
+39| Hillsborough       | Sheffield      |55000     |Inglaterra 1966
+40| Roker Park         | Sunderland     |43500     |Inglaterra 1966
+41| Olimpico de Berlin | Berlin         |68600     |Alemania 1974
+42| Westfalenstadion   | Dortmund       |44417     |Alemania 1974
+43| Rheinstadion       | Düsseldorf     |76000     |Alemania 1974
+44| Parkstadion        | Gelsenkirchen  |62000     |Alemania 1974
+45| Volksparkstadion   | Hamburgo       |55000     |Alemania 1974
+46| Olimpico de Munich | Munich         |76243     |Alemania 1974
+47| Neckarstadion      | Stuttgart      |53218     |Alemania 1974
+48| Jose Almafitani    | Buenos Aires   |49318     |Argentina 1978
+49| Monumental         | Buenos Aires   |76609     |Argentina 1978
+50| Mundialista        | Mar del Plata  |42563     |Argentina 1978
+51| Ciudad de Mendoza  | Mendoza        |47542     |Argentina 1978
+52| Chateau Carreras   | Cordoba        |46986     |Argentina 1978
+53| Gigante de Arroyito| Rosario        |34954     |Argentina 1978
+54| José Rico Pérez    | Alicante       |30000     |España 1982
+55| Camp Nou           | Barcelona      |93053     |España 1982
+56| San Mamés	       | Bilbao         |40000     |España 1982
+57| El Molinón         | Gijón          |25885     |España 1982	       
+58| Santiago Bernabeu  | Madrid         |90800     |España 1982    
+59| Vicente Calderon   | Madrid         |57000     |España 1982
+60| La Rosaleda        | Malaga         |45000     |España 1982
+61| Benito Villamarín  | Sevilla        |47500     |España 1982 
+62| Luis Casanova      | Valencia       |49092     |España 1982
+63| Jalisco            | Guadalajara    |56000     |Mexico 1986
+64| Leon 	       | Leon           |30000     |Mexico 1986
+65| Azteca             | Mexico D.F.    |114600    |Mexico 1986
+66| Tecnologico        | Monterrey      |34000     |Mexico 1986
+67| Universitario      | Monterrey      |43000     |Mexico 1986
+68| Foxboro            | Boston         |61000     |Estados Unidos 1994
+69| Soldier Field      | Chicago        |67000     |Estados Unidos 1994
+70| Cotton Bowl        | Dallas         |67000     |Estados Unidos 1994
+71| Pontiac Silvertone | Detroit        |80000     |Estados Unidos 1994
+72| Rose Bowl          | Los Angeles    |91000     |Estados Unidos 1994
+73| Giants             | Nueva York     |77000     |Estados Unidos 1994
+74| Citrus Bowl        | Orlando        |70000     |Estados Unidos 1994
+75| Stanford           | San Francisco  |80000     |Estados Unidos 1994
+76| Moses Mabhida      | Durban         |62760     |Sudafrica 2010       
+77| Loftus Versfeld    | Pretoria       |42762     |Sudafrica 2010
+78| Soccer City        | Johannesburgo  |94700     |Sudafrica 2010
+79| Mineirao           | Belo Horizonte |72800     |Brasil 2014
+80| Mané Garrincha     | Brasilia       |72800     |Brasil 2014
+81| Arena da Baixada   | Curitiba       |40000     |Brasil 2014 
+82| Arena da Amazonia  | Manaus         |50500     |Brasil 2014
+83| Arena Corinthians  | Sao Paulo      |65000     |Brasil 2014
+84| Arena Fonte Nova   | Salvador       |51708     |Brasil 2014
+85| Arena Pernanbuco   | Recife         |50000     |Brasil 2014
+86| Kazán Arena        | Kazán          |45105     |Rusia 2018
+87| Olimpico Luhnikí   | Moscú          |81300     |Rusia 2018
+88| Samara Arena       | Samara         |45000     |Rusia 2018
+89| Mordovia Arena     | Saransk        |45100     |Rusia 2018
+90| Fisht              | Sochi 	        |48000     |Rusia 2018
+91| Volgogrado Arena   | Volgogrado     |45015     |Rusia 2018
+92| Rostov Arena       | Rostov del Don |43702     |Rusia 2018
+93| Spartak            | Moscú          |47000     |Rusia 2018
+94| Krestovski         | San Petersburgo|70000     |Rusia 2018
+95| Al Janoub          | Al wakrah      |40000     |Catar 2022
+96| 974                | Doha           |40000     |Catar 2022
+97| Khalifa            | Doha           |45416     |Catar 2022
+98| Al Thumama         | Doha           |40000     |Catar 2022
+99| Estadio Al Bayt    | Jor            |60000     |Catar 2022
+100| Lusail            | Lusail         |80000     |Catar 2022
